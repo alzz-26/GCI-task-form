@@ -1,0 +1,6 @@
+name: GCI Task-Form
+description: A basic form page
+package: Custom
+
+type: module
+core: 8.x
